@@ -147,12 +147,15 @@ font header .navbar-default .navbar-nav li a:hover {
 
 
 #intro h1{
+  font-size: 40px;
   padding-top: 35px;
-  line-height: 25px;
+  line-height: 100%;
   margin: 0;
 }
 
-
+#intro h1 a{
+  color: black;
+}
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
@@ -194,13 +197,14 @@ font header .navbar-default .navbar-nav li a:hover {
 	post Start
 --*/
 #post {
-  padding: 0px 0;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 #post .block h1 {
   font-size: 40px;
   padding-top: 35px;
-  line-height: 27px;
+  line-height: 100%;
   margin: 0;
 }
 
@@ -268,7 +272,7 @@ font-size: 50px;
 	call-to-action Start
 --*/
 #call-to-action {
-  background: url("../img/call-to-action-bg3.jpg") no-repeat;
+  background: url("../img/call-to-action-bg4.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   padding: 20px 0px;
