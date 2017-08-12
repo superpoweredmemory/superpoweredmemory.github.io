@@ -8,7 +8,7 @@ author: João Eira
 
 Learning is a foundational aspect of our lives.
 
-We start early, entering formal education when we're young with some leaving some decades later with a degree or more in their belt. After entering the workforce, we might be forgiven in thinking that our job will consist in nothing more than applying what we already know, that learning new things is at best a tangential task. Yet we are soon disabused of that idea when the reality of the modern workplace is thrust upon us. Things move fast. New technology is always being introduced and old paradigms are always in danger of being overturned. We soon realize that we live in a world where we either continue updating our knowledge or we'll find ourselves stuck in the same place for ever, or worse, becoming obsolete.
+We start early, entering formal education when we're young, some only leaving decades later with a degree or more in their belt. After entering the workforce, we might be forgiven in thinking that our job will consist in nothing more than applying what we already know, that learning new things is at best a tangential task. Yet we are soon disabused of that idea when the reality of the modern workplace is thrust upon us. Things move fast. New technology is always being introduced, and old paradigms are always in danger of being replaced. We soon realize that we live in a world where we either continue updating our knowledge or find ourselves stuck in the same place, or worse, becoming obsolete.
 
 I may be exaggerating for effect, but the reality is not that far off. Think back to how the world was 5, 10, 20 years in the past and contrast it to today to see how much can change in so short a period. Can you be certain that your skills will continue to be relevant a decade from now? Or, if you’re still a student, do you think what you’ve learned so far will be enough to get you through the many decades still ahead of you? Probably not. Thus the need to make learning a habitual activity of ours. We must all become perpetual learners, or face the consequences.
 There is an added difficulty to all of this however: Most people are terrible learners. It would perhaps be a rosier picture if the truth were that most people are mediocre learners, with some slightly better and some slightly worse, but that’s just not what’s happening. Again and again, what research has found is that people, for the most part, are terrible learners.
@@ -17,14 +17,14 @@ One would think, given that we start school so young and must continue to learn 
 
 Yet these crowdsourced strategies are so ineffective, and so widely used, that researchers have invariably concluded most of us are terrible learners. [As researchers Robert Bjork, John Dunlosky, and Nate Kornell put it](http://www.annualreviews.org/doi/abs/10.1146/annurev-psych-113011-143823), *“there is in fact much that we, as learners, do not tend to know about how best to assess and manage our own learning.”*
 
-Worse yet is that this ignorance about isn’t easily corrected. One would think that decades spent learning and putting that knowledge to the quite literal test would make it so that bad learning practices would be left by the wayside with only the good practices surviving the ordeal. Yes, other people might be using these techniques but once you yourself see that they aren’t getting you the results you want one would think that you would switch to better techniques. That, however, does not tend to happen. The legions of students armed with nothing but highlighters in libraries worldwide, and the overwhelming evidence against their usage, is a testament to this.
+Worse yet is that this ignorance about isn’t easily corrected. One would think that decades spent learning and putting that knowledge to the quite literal test would make it so that bad learning practices would be left by the wayside, with only the good practices surviving the ordeal. Yes, other people might be using these techniques but once you yourself see that they aren’t getting you the results you want, one would think that you would switch to better techniques. That, however, does not tend to happen. The legions of students armed with nothing but highlighters in libraries worldwide, and the overwhelming evidence against their usage, is a testament to this.
 
-What are we to do then? If learning is so important but we’re terrible at it, does this mean we’re screwed? Is there nothing that can be done? Thankfully, things aren’t so dire. There are general principles and techniques, identified after decades of scientific research on how to learn, that you can use to get much better results.
+What are we to do then? If learning is so important, but we’re terrible at it, does this mean we’re screwed? Is there nothing that can be done? Thankfully, things aren’t so dire. There are general principles and techniques, identified after decades of scientific research on how to learn, that you can use to get much better results.
 
-These are the key principles you must learn to become an effective learner:
+These are the key principles you must know to become an effective learner:
 
-#### a) Understanding the peculiarities of human memory and learning
-#### b) Knowing the techniques that enhance the storage and retrieval of information from memory
+#### a) The peculiarities of human memory and learning
+#### b) The techniques that enhance the storage and retrieval of information from memory
 #### c) How to monitor the state of one’s learning and the myriad ways in which our judgments can be fooled
 
 ## The peculiarities of human memory
@@ -34,7 +34,7 @@ Our memory doesn’t work like recording device. It is not the brain’s equival
 
 Another important thing to know is that the retrieval of information from memory is not without its consequences. Remembering things changes our memories, oftentimes making those retrieved memories stronger. Retrieving information from memory works as a memory modifier, making that memory more recallable in the future, as if the brain figured out that since you selected this one memory against all others it means the information contained within it is important, making it more accessible for when you later need it. In practical terms, this means that making an effort to recall things, by testing yourself for example, will improve your memory in such a way as to make that recall much less effortful, ensuring that when time comes that you need it, in an exam for example, you have an easier time recalling all that knowledge you spent so much time learning.
 
-The remarkable thing, from an historical perspective, is that we’ve known about how our memories form long term memories for centuries now ever since Hermann Ebbinghaus made his initial experiments that established the scientific study of memory. Yet, unless you happen to take a course on memory in college, very few of us learn of any of this. My own course Superpowered Memory is an attempt at rectifying this issue.
+The remarkable thing, from an historical perspective, is that we’ve known about how our memories form long term memories for centuries now ever since Hermann Ebbinghaus made his initial experiments that established the scientific study of memory. Yet, unless you happen to take a course on memory in college, very few of us learn of any of this. My own course [Superpowered Memory](superpoweredmemory.com) is an attempt at rectifying this issue.
 
 ## Input less, Output More
 
