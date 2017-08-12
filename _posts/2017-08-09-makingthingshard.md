@@ -6,7 +6,7 @@ permalink: make-things-hard
 author: João Eira
 ---
 
-Everybody wants to take that one shortcut that will bypass all the hard work needed to reach their goals. Trying to learn a new language? I’m sure you’ll be able to find dozens of products in the Internet that will promise you fluency in just under 2 hours. Or 1 hour. Or 30 minutes. There’s an entire line of books predicated on the idea that you can learn a new programming language in 24 hours, which prompted legendary computer scientist Peter Norvig to write a response to this inane idea by proposing a tantalizing syllabus which, if you follow, will turn you into a good programmer in just under 10 years.
+Everybody wants to take that one shortcut that will bypass all the hard work needed to reach their goals. Trying to learn a new language? I’m sure you’ll be able to find dozens of products in the Internet that will promise you fluency in under 2 hours. Or 1 hour. Or 30 minutes. There’s an entire line of books predicated on the idea that you can [learn a new programming language in 24 hours](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=teach+yourself+24+hours), which prompted legendary computer scientist [Peter Norvig](http://norvig.com/21-days.html) to write a response to this inane idea by proposing a tantalizing syllabus which, if you follow, will turn you into a good programmer in under 10 years.
 
 That’s not too much time, is it?
 
