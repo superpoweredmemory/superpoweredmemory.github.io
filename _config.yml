@@ -12,16 +12,18 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+gems:
+  - jekyll-feed
 
 # Site settings
 title: Superpowered Memory
-subtitle: "A Research-Based Course On How To Master Your Memory"
+description: "How To Master Your Memory And Become an Effective Learner"
 url: "http://superpoweredmemory.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-
+author: João Eira
 # Build settings
 markdown: kramdown
 
