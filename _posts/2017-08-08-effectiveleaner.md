@@ -25,7 +25,7 @@ These are the key principles you must know to become an effective learner:
 
 #### a) The peculiarities of human memory and learning
 #### b) The techniques that enhance the storage and retrieval of information from memory
-#### c) How to monitor the state of one’s learning and the myriad ways in which our judgments can be fooled
+#### c) How to monitor the state of your learning and the myriad ways in which your judgment can be fooled
 
 ## The peculiarities of human memory
 
