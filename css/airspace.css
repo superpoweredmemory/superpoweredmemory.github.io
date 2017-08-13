@@ -245,6 +245,12 @@ font-size: 50px;
   padding-top: 20px;
 }
 
+
+#related p{
+  font-size: 18px;
+  text-align: left;
+}
+
 /*--
 	service Start
 --*/
